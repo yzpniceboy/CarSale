@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarSale</string>
+
+    <string name="warn_dialog_btn_tex">知道了</string>
+</resources>
